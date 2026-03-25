@@ -1,0 +1,1 @@
+this are the files in the staging area waiting to be commited 
